@@ -3,8 +3,8 @@
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYfdTmw7NmDrko2rdcmyFwGH-t5I3DLZAtdcYUH-lcEBfdhw_P8HMiMZ84cNPeel_zMDsqHxIeClIP1DvwdPKRoXE5bLC5-wzH5Aol3ew03Q" alt="meteor-client-logo" width="15%"/>
 </p>
 
-<h1 align="center">Meteor</h1>
-<p align="center">A minecraft client made by a horny ass nihgah.</p>
+<h1 align="center">Soakfull</h1>
+<p align="center">A minecraft client made by a horny ass cracker.</p>
 
 <div align="center">
     <a href="https://discord.gg/6sX9AB7kF4"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
@@ -24,26 +24,15 @@
 - Run `./gradlew build`
 
 ### Installation
-Follow the [guide](https://meteorclient.com/faq/installation) on the wiki.
+figure it out yourself
 
 ## Contributions
-We will review and help with all reasonable pull requests as long as the guidelines below are met.
-
-- The license header must be applied to all java source code files.
-- IDE or system-related files should be added to the `.gitignore`, never committed in pull requests.
-- In general, check existing code to make sure your code matches relatively close to the code already in the project.
-- Favour readability over compactness.
-- If you need help, check out the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) for a reference.
-
+NO
 ## Bugs and Suggestions
-Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/MeteorDevelopment/meteor-client/issues) using the templates provided.  
-Please provide as much information as you can to best help us understand your issue and give a better chance of it being resolved.
+uhhh send them in the discord https://discord.gg/6sX9AB7kF4
 
 ## Donations
-All of our work is completely free and non-profit (donations pay only for hosting costs), therefore we are very grateful for all donations made to support us in running our community.  
-Donations can be made via our [website](https://meteorclient.com/donate) and the minimum amount to get donor benefits is €5.  
-You will be rewarded with a role on our Discord server and a customisable in-game cape.  
-⚠️ _Make sure to create a Meteor account and link your Discord and Minecraft accounts to fully experience your rewards._ ⚠️
+DONT DONATE unless you want to give me money in that case dm me on discord
 
 ## Credits
 [Cabaletta](https://github.com/cabaletta) and [WagYourTail](https://github.com/wagyourtail) for [Baritone](https://github.com/cabaletta/baritone)  
@@ -57,4 +46,4 @@ If you use **ANY** code from the source:
 - You must state clearly and obviously to all end users that you are using code from this project.
 - Your application must also be licensed under the same license.
 
-*If you have any other questions, check our [FAQ](https://meteorclient.com/faq) or ask in our [Discord](https://meteorclient.com/discord) server.*
+
