@@ -1,13 +1,13 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYfdTmw7NmDrko2rdcmyFwGH-t5I3DLZAtdcYUH-lcEBfdhw_P8HMiMZ84cNPeel_zMDsqHxIeClIP1DvwdPKRoXE5bLC5-wzH5Aol3ew03Q" alt="meteor-client-logo" width="15%"/>
 </p>
 
 <h1 align="center">Meteor</h1>
-<p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
+<p align="center">A minecraft client made by a horny ass nihgah.</p>
 
 <div align="center">
-    <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
+    <a href="https://discord.gg/6sX9AB7kF4"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
     <br>
     <img src="https://img.shields.io/github/last-commit/MeteorDevelopment/meteor-client" alt="GitHub last commit"/>
     <img src="https://img.shields.io/github/commit-activity/w/MeteorDevelopment/meteor-client" alt="GitHub commit activity"/>
